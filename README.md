@@ -1,6 +1,6 @@
 ## nextjs-learning
 
-###Local Setup
+### Local Setup
 - Git clone `https://github.com/shahbazshoukat/nextjs-learning.git`.
 - cd `nextjs-learning`.
 - Run `npm i`.
